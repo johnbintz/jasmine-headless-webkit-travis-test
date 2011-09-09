@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/johnbintz/jasmine-headless-webkit.git
-  revision: 64046bc30860eded599b6b8f7bf8bf3021b55814
+  revision: ade490ba14ff5c0cb1c8882ebfadb2432618c028
   branch: travis-test
   specs:
     jasmine-headless-webkit (0.7.0)
