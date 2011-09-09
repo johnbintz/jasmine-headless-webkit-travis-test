@@ -1,0 +1,8 @@
+spec_dir: 'spec/javascripts'
+src_dir: 'public/javascripts'
+
+src_files: 
+  - 'test.coffee'
+spec_files: 
+  - 'test_spec.coffee'
+
