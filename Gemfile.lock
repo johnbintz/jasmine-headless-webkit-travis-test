@@ -1,6 +1,7 @@
 GIT
   remote: git://github.com/johnbintz/jasmine-headless-webkit.git
-  revision: 7bd689439728ad5deb77b1cf59917e437a0a5355
+  revision: 64046bc30860eded599b6b8f7bf8bf3021b55814
+  branch: travis-test
   specs:
     jasmine-headless-webkit (0.7.0)
       coffee-script (>= 2.2)
@@ -9,6 +10,7 @@ GIT
       rainbow
 
 GEM
+  remote: http://rubygems.org/
   specs:
     coffee-script (2.2.0)
       coffee-script-source
